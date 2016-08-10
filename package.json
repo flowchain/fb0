@@ -13,10 +13,10 @@
   },
   "homepage": "https://github.com/flowchain/fb0.git",
   "dependencies": {
+    "bluebird": "^3.4.1",
+    "utils-merge": "^1.0.0"
   },
-  "scripts": {
-  },
-  "devDependencies": {
-  },
+  "scripts": {},
+  "devDependencies": {},
   "license": "MIT License"
 }
