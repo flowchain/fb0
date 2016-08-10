@@ -1,0 +1,22 @@
+{
+  "name": "fb0",
+  "version": "0.1.0",
+  "description": "Extremely light-weight flow-based programming runtime for IoT",
+  "keywords": [
+    "iot"
+  ],
+  "author": "jollen <jollen@jollen.org> (http://jollen.org/)",
+  "main": "libs/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowchain/fb0.git"
+  },
+  "homepage": "https://github.com/flowchain/fb0.git",
+  "dependencies": {
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "license": "MIT License"
+}
